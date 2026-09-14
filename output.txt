@@ -1,0 +1,4 @@
+Bonjour
+Ceci est un fichier de test
+Derniere ligne
+Nombre total de lignes copiees : 3
