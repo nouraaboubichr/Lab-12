@@ -39,10 +39,14 @@
 * Séparer les responsabilités en créant une classe pour chaque type d’écriture : **log, CSV et HTML**.
 * Les extensions proposées concernent les niveaux de verbosité du log, la génération de CSV à partir d’objets métier et la création de templates HTML plus complexes.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012223.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012238.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012250.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012408.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012427.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012427.png" />
