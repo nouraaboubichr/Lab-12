@@ -10,13 +10,21 @@
 * Appliquer les exceptions **`IOException`** et **`ClassNotFoundException`** lors des opérations sur les fichiers.
 * Les extensions proposées concernent **`Path` / `Files`**, les fichiers binaires, les Streams parallèles et une interface graphique.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 010959.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 011012.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 011025.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 011035.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 011045.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 011045.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012150.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 012202.png" />
 
 # Exercice 2 - Écriture avec PrintWriter et BufferedReader
 
